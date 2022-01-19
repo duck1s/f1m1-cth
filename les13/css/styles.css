@@ -1,0 +1,67 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 16px;
+  font-family: Roboto, Arial, sans-serif;
+  line-height: 1.15;
+  -webkit-text-size-adjust: 100%;
+  -webkit-font-smoothing: antialiased;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px 5%;
+  background: #f0f0f0;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: black;
+  letter-spacing: 1.4199999570846558px;
+}
+
+nav ul li {
+  display: inline;
+  margin: 20px;
+}
+
+nav ul {
+  list-style: none;
+  display: inline;
+}
+
+#home-main {
+  padding: 20px;
+}
+
+#mediacollegefoto {
+  width: 40%;
+  padding: 20px 0px;
+}
+
+#naam {
+  font-size: 20px;
+}
+
+#opdracht {
+  font-size: 20px;
+}
+
+#it {
+  display: none;
+}
+
+#pageinfo {
+  padding: 20px;
+}
+
+#halloweenpumpkin {
+  width: 50vw;
+}
+
+#it {
+  width: 50vw;
+}

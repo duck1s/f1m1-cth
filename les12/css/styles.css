@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+nav {
+  background-color: lightgray;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 5%;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: black;
+}
+
+nav ul li {
+  display: inline;
+  margin: 20px;
+}
+
+nav ul {
+  list-style: none;
+  display: inline;
+}
+
+#home-main {
+  padding: 20px;
+}
+
+#mediacollegefoto {
+  width: 40%;
+  padding: 20px 0px;
+}
